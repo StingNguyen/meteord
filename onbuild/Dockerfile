@@ -1,5 +1,5 @@
 FROM nguyenminhtienitvn/meteord:base
-MAINTAINER Jesse Rosenberger
+MAINTAINER Tien Nguyen
 
 ARG NODE_VERSION
 ENV NODE_VERSION ${NODE_VERSION:-12.20.0}

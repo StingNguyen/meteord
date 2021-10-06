@@ -1,5 +1,5 @@
 FROM debian:stretch
-MAINTAINER Jesse Rosenberger
+MAINTAINER Tien Nguyen
 
 ENV METEORD_DIR /opt/meteord
 COPY scripts $METEORD_DIR
