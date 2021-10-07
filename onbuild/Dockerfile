@@ -1,4 +1,4 @@
-FROM nguyenminhtienitvn/meteord:base
+FROM nguyenminhtienitvn/meteord:node-12.20.0-base
 MAINTAINER Tien Nguyen
 
 ARG NODE_VERSION
